@@ -42,7 +42,7 @@ export default {
 }
 .sliding-header.first-header {
 	background-color: lightgreen;
-	height: 60px;
+	height: 70px;
 }
 .sliding-header.second-header {
 	background-color: lightblue;
